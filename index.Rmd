@@ -68,19 +68,22 @@ p3_scatter <- cv_states_today_scatter %>%
 
 ### Figure 1
 
-```{r show figure 1 echo=FALSE}
+```{r show figure 1, echo=FALSE}
 p1_scatter
 ```
 
 ### Figure 2
 
-```{r show figure 2 echo=FALSE}
+```{r show figure 2, echo=FALSE}
 p2_scatter
 ```
 
 ### Figure 3
 
-```{r show figure 3 echo=FALSE}
+```{r show figure 3, echo=FALSE}
 p3_scatter
 ```
 
+## Conclusion
+
+Tell me what you see
